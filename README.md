@@ -91,10 +91,10 @@ The dashboard provides an interactive view of admissions, demographics, clinical
 
 ## Key Findings
 
-- Admissions Are Spread Almost Evenly Across Adult Age Groups. Each group from 20 t0 79 accounts for 14.5% to 15.1% of admissions. The 50-59 group is highest (15.1%) but leads by less than one point, so age alone does not explain admission volume. 
-- Admission Are Split Evenly By Gender. Female patients accounts for 50.01% and male patients 49.99&, so gender group does not separate admission volume. 
+- Admissions Are Spread Almost Evenly Across Adult Age Groups. Each group from 20 to 79 accounts for 14.5% to 15.1% of admissions. The 50-59 group is highest (15.1%) but leads by less than one point, so age alone does not explain admission volume. 
+- Admissions Are Split Evenly By Gender. Female patients account for 50.01% and male patients 49.99%, so gender does not separate admission volume. 
 - Admissions Were Stable From 2020 to 2023. They stayed between 9.86K and 10.14K per year. The lower counts in 2019 (6.62K) and 2024 (3.45K) are consistent with partial coverage, since the data runs from May 2019 to May 2024. Year-over-Year comparisons that include those two years would be misleading. 
-- Billing Is Nearly Uniform Across Conditions, Admission types And Length Of Stay. Average billing ranges only from $25.28K (cancer) to $25.84K (obesity). Elective (25.67K) and emergency ($25.57K) admissions are almost identical. None of these is a meaningful cost driver. 
+- Billing Is Nearly Uniform Across Conditions, Admission Types and Length of Stay. Average billing ranges only from $25.28K (cancer) to $25.84K (obesity). Elective ($25.67K) and emergency ($25.57K) admissions are almost identical. None of these is a meaningful cost driver. 
 - Hospital Rankings Are Not Reliable In This Dataset. There are about 39,800 distinct hospital names across 49,904 admissions, so most hospitals have one or two records. The "top" hospital by total billing mainly reflects having more admissions, not higher costs.
 
 
@@ -110,6 +110,7 @@ The dashboard provides an interactive view of admissions, demographics, clinical
 - Power Query
 - Power BI
 - DAX
+- Excel
 
 ## Project Files
 
